@@ -14,8 +14,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'orion',
       home: BottomNavigation(),
-
-
     );
   }
 }
